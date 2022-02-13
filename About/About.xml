@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Pawn Badge - United States Navy</name>
+  <author>Dr. Ternith Plague</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
+    More icons to PawnBadge
+  </description>
+</ModMetaData>
+<modDependencies>
+	  <li>
+		    <packageId>SaucyPigeon.PawnBadge</packageId>
+		    <displayName>Pawn Badge Fan Fork</displayName>
+		    <downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
+		    <steamWorkshopUrl>steam://url/CommunityFilePage/2112663412</steamWorkshopUrl>
+	  </li>
+</modDependencies>
+<loadAfter>
+	  <li>SaucyPigeon.PawnBadge</li>
+</loadAfter>
