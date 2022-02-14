@@ -144,4 +144,94 @@
 		<description>[O-11] Fleet Admiral</description>
 		<icon>PawnBadge/FleetAdmiral</icon>
 	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Crewman</defName>
+		<label>Crewman</label>
+		<description>SDCN Crewman</description>
+		<icon>PawnBadge/All</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Cargo Technician</defName>
+		<label>CargoTechnician</label>
+		<description>SDCN Cargo Technician</description>
+		<icon>PawnBadge/ArtCraftSmithTailor</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Engineer</defName>
+		<label>Engineer</label>
+		<description>SDCN Engineer</description>
+		<icon>PawnBadge/ConstructMine</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Explorer</defName>
+		<label>Explorer</label>
+		<description>NDG Explorer</description>
+		<icon>PawnBadge/HandleHuntGrowCut</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Researcher</defName>
+		<label>Researcher</label>
+		<description>NDG Researcher</description>
+		<icon>PawnBadge/Intellectual</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Medical</defName>
+		<label>Medical</label>
+		<description>SDCN Doctor</description>
+		<icon>PawnBadge/MedicalIntellectual</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Gunnery</defName>
+		<label>Gunnery</label>
+		<description>SDCN Gunnery</description>
+		<icon>PawnBadge/Shooting</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>SpecialOperations</defName>
+		<label>Navy Special Operations</label>
+		<description>SDCN Special Operations</description>
+		<icon>PawnBadge/ShootingMeleeWarden</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Security</defName>
+		<label>Security</label>
+		<description>SDCN Security</description>
+		<icon>PawnBadge/ShootingWarden</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Communications</defName>
+		<label>Communications</label>
+		<description>SDCN Communications Officer</description>
+		<icon>PawnBadge/Social</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Navigator</defName>
+		<label>Navigator</label>
+		<description>SDCN Navigator</description>
+		<icon>PawnBadge/CraftingIntellectual</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>FirstOfficer</defName>
+		<label>First Officer</label>
+		<description>SDCN First Officer</description>
+		<icon>PawnBadge/FirstOfficer</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>CaptainInsignia</defName>
+		<label>Captain Button</label>
+		<description>SDCN Captain</description>
+		<icon>PawnBadge/CaptainInsignia</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>AdmiralInsignia</defName>
+		<label>Admiral Button</label>
+		<description>SDCN Admiral</description>
+		<icon>PawnBadge/AdmiralInsignia</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>SEA</defName>
+		<label>SEA</label>
+		<description>SDCN Senior Enlisted Advisor</description>
+		<icon>PawnBadge/SEA</icon>
+	</RR_PawnBadge.BadgeDef>
 </Defs>
