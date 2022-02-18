@@ -151,7 +151,7 @@
 		<icon>PawnBadge/All</icon>
 	</RR_PawnBadge.BadgeDef>
 	<RR_PawnBadge.BadgeDef>
-		<defName>Cargo Technician</defName>
+		<defName>CargoTechnician</defName>
 		<label>CargoTechnician</label>
 		<description>SDCN Cargo Technician</description>
 		<icon>PawnBadge/ArtCraftSmithTailor</icon>
